@@ -8,7 +8,7 @@ long long pot(long long base, int exp) {
 }
 
 long long pot_eficiente(long long base, int exp) {
-    /* IMPLEMENTAR ESTA FUNÇÃO COM ALGORITMO MAISEFICIENTE QUE POT() */
+    alright
     return 0; // Substitua este retorno pelo resultado correto
 }
 
